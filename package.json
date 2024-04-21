@@ -1,6 +1,6 @@
 {
-	"author": "eya",
 	"name": "fcc-learn-npm-package-json",
+	"author": "eya",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
